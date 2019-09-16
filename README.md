@@ -1,4 +1,4 @@
-# Silkway
+# OptimizedHTML-4
 OptimizedHTML is all-inclusive start HTML5 template with Bootstrap 4 (grid & reboot), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Rsync and Bower (libs path) support. The template contains a .htaccess file with caching rules for web server.
 
 The template uses a Sass with Sass or Scss syntax (optional).
