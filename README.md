@@ -3,6 +3,14 @@ OptimizedHTML is all-inclusive start HTML5 template with Bootstrap 4 (grid & reb
 
 The template uses a Sass with Sass or Scss syntax (optional).
 
+There is no build, and in fact it is not particularly needed. In the process of working js and css already
+will be compressed.
+
+Before installing dependencies, you need to do some of the following:
+* we install `npm i -g npm-check-updates` this to check for package versions.
+* Checking `ncu` packages. You should check in the project folder.
+* To update packages, the `ncu -u` command.
+
 ---
 
 ## Technologies
@@ -20,6 +28,25 @@ If the tab doesn't open on your own browser, then open your web browser to local
 Gulp tasks:
  `gulp`: run default gulp task (sass, js, watch, browserSync) for web development;
  `rsync`: project deployment on the server from dist folder via RSYNC;
+
+Tunnel:
+The gulp file has comment lines:
+```
+tunnel: true,
+tunnel: "projectmane",
+```
+If you comment on them, then when you start a project, the `gulp` command will give you the following address:
+```
+ ----------------------------------------------
+ Local: http://localhost:3000
+ External: http://192.168.0.102:3000
+ Tunnel: https://projectname.localtunnel.me
+ ----------------------------------------------
+ UI: http://localhost:3001
+ UI External: http://192.168.0.102:3001
+ ----------------------------------------------
+ ```
+ So if you go to Tunnel, it will go to a project that will be available to everyone temporarily.
 
 ## Dependencies
 A brief description of each package and the function it will serve (front-end):
