@@ -64,7 +64,3 @@ Rules for working with the starting HTML template
 8) All Bootstrap media queries placed in app/sass/_media.sass | app/scss/_media.scss;
 9) All libraries CSS styles placed in app/sass/_libs.sass | app/scss/_libs.scss;
 10) Rename ht.access to .htaccess before place it in your web server. This file contain rules for files caching on web server.
-
-## Bug fixes
-* `Another`  
-You can always use [nvm (Node Version Manager)](https://canonium.com/articles/managing-node-versions-with-windows-nvm)
