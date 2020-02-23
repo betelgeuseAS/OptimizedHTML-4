@@ -17,10 +17,12 @@ Before installing dependencies, you need to do some of the following:
 * `HTML` / `*`
 * `CSS` / `Sass` or `Scss`
 * `JavaScript` / `jQuery`
+* `Gulp`
+* `Bootstrap 4 Grid`
 
 ## Quickstart
-1. `git clone https://github.com/betelgeuseAS/OptimizedHTML-4.git`
-2. `cd OptimizedHTML-4` and `npm install` or `npm i`
+1. `git clone ...`
+2. `npm install` or `npm i`
 3. `gulp`
 
 If the tab doesn't open on your own browser, then open your web browser to localhost:3000.

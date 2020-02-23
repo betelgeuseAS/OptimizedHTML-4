@@ -1,9 +1,19 @@
-# Стартовый шаблон автора канала FrontCoder
-Используется связка `Gulp` + `Pug` + `SCSS` + `BrowserSync`
+# HTML Scss/Sass JS
 
-## Установка
-Склонировать репозиторий и выполнить либо npm install
+Before installing dependencies, you need to do some of the following:
+* we install `npm i -g npm-check-updates` this to check for package versions.
+* Checking `ncu` packages. You should check in the project folder.
+* To update packages, the `ncu -u` command.
 
-## Каналы связи
-- [youtube канал](https://www.youtube.com/c/frontcoder)
-- [чат в телеграм](https://t.me/frontcoder)
+---
+
+## Technologies
+* `HTML` / `Pug`
+* `CSS` / `Sass` or `Scss`
+* `JavaScript` / `jQuery`
+* `Gulp`
+
+## Quickstart
+1. `git clone ...`
+2. `npm install` or `npm i`
+3. `gulp` for dev or `gulp:build` for create prod folder
