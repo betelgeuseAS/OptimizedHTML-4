@@ -9,3 +9,9 @@
 [lesson](https://www.youtube.com/watch?v=lOXz0ZYuTqI)
 
 ---
+
+## angular electron
+[lesson](https://www.techiediaries.com/angular-electron/)
+[useful angular articles](https://www.techiediaries.com/angular/)
+
+---
