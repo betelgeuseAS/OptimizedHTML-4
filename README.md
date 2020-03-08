@@ -11,7 +11,7 @@
 ---
 
 ## angular electron
-[lesson](https://www.techiediaries.com/angular-electron/)
+[lesson](https://www.techiediaries.com/angular-electron/)  
 [useful angular articles](https://www.techiediaries.com/angular/)
 
 ---
