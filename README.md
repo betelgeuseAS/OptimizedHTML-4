@@ -1,3 +1,7 @@
+[useful angular articles](https://www.techiediaries.com/angular/)   
+[useful react articles](https://www.techiediaries.com/react/)   
+[useful vue articles](https://www.techiediaries.com/vuejs/)   
+
 ---
 
 ## html sass js
@@ -11,7 +15,6 @@
 ---
 
 ## angular electron
-[lesson](https://www.techiediaries.com/angular-electron/)  
-[useful angular articles](https://www.techiediaries.com/angular/)
+[lesson](https://www.techiediaries.com/angular-electron/)
 
 ---
