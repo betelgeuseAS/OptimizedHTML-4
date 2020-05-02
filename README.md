@@ -18,3 +18,10 @@
 [lesson](https://www.techiediaries.com/angular-electron/)
 
 ---
+
+## angular electron typeorm sqlite
+[similar](https://github.com/CubikNeRubik/angular-electron-typeorm-starter)  
+[similar](https://github.com/mecp/electron-ng6-sqlite-starter)  
+[similar](https://github.com/leota/electron-angular4-sqlite3)  
+
+---
